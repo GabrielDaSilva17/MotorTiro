@@ -1,0 +1,345 @@
+{
+  "NomeMapa": "Fase 1 - Laborat\u00F3rio PB2",
+  "SpawnPlayerX": -512,
+  "SpawnPlayerY": -224,
+  "Paredes": [
+    {
+      "X": -300,
+      "Y": 460,
+      "Largura": 1800,
+      "Altura": 80
+    },
+    {
+      "X": 200,
+      "Y": 340,
+      "Largura": 160,
+      "Altura": 24
+    },
+    {
+      "X": 460,
+      "Y": 260,
+      "Largura": 180,
+      "Altura": 24
+    },
+    {
+      "X": -256,
+      "Y": 256,
+      "Largura": 160,
+      "Altura": 32
+    },
+    {
+      "X": -32,
+      "Y": 320,
+      "Largura": 128,
+      "Altura": 32
+    },
+    {
+      "X": -1056,
+      "Y": 448,
+      "Largura": 1472,
+      "Altura": 704
+    },
+    {
+      "X": 288,
+      "Y": 896,
+      "Largura": 1216,
+      "Altura": 256
+    },
+    {
+      "X": 1440,
+      "Y": 448,
+      "Largura": 640,
+      "Altura": 256
+    },
+    {
+      "X": 1472,
+      "Y": 896,
+      "Largura": 1024,
+      "Altura": 256
+    },
+    {
+      "X": 2208,
+      "Y": 640,
+      "Largura": 192,
+      "Altura": 64
+    },
+    {
+      "X": 2048,
+      "Y": 768,
+      "Largura": 192,
+      "Altura": 64
+    },
+    {
+      "X": 2976,
+      "Y": 96,
+      "Largura": 608,
+      "Altura": 1152
+    },
+    {
+      "X": 2880,
+      "Y": 512,
+      "Largura": 256,
+      "Altura": 96
+    },
+    {
+      "X": 2016,
+      "Y": 448,
+      "Largura": 192,
+      "Altura": 64
+    },
+    {
+      "X": 1376,
+      "Y": 768,
+      "Largura": 64,
+      "Altura": 64
+    },
+    {
+      "X": 1056,
+      "Y": 704,
+      "Largura": 128,
+      "Altura": 64
+    },
+    {
+      "X": 608,
+      "Y": 672,
+      "Largura": 192,
+      "Altura": 32
+    },
+    {
+      "X": 2400,
+      "Y": 864,
+      "Largura": 608,
+      "Altura": 96
+    },
+    {
+      "X": 2752,
+      "Y": 640,
+      "Largura": 256,
+      "Altura": 256
+    },
+    {
+      "X": 2624,
+      "Y": 736,
+      "Largura": 192,
+      "Altura": 192
+    },
+    {
+      "X": 2496,
+      "Y": 672,
+      "Largura": 64,
+      "Altura": 96
+    },
+    {
+      "X": 2560,
+      "Y": 480,
+      "Largura": 96,
+      "Altura": 64
+    },
+    {
+      "X": 2400,
+      "Y": 448,
+      "Largura": 64,
+      "Altura": 96
+    },
+    {
+      "X": 2496,
+      "Y": 288,
+      "Largura": 96,
+      "Altura": 64
+    },
+    {
+      "X": -128,
+      "Y": 96,
+      "Largura": 96,
+      "Altura": 64
+    },
+    {
+      "X": 96,
+      "Y": 224,
+      "Largura": 96,
+      "Altura": 32
+    },
+    {
+      "X": -960,
+      "Y": 0,
+      "Largura": 704,
+      "Altura": 608
+    },
+    {
+      "X": -832,
+      "Y": -160,
+      "Largura": 384,
+      "Altura": 320
+    },
+    {
+      "X": -448,
+      "Y": -64,
+      "Largura": 192,
+      "Altura": 128
+    },
+    {
+      "X": -544,
+      "Y": -64,
+      "Largura": 128,
+      "Altura": 64
+    },
+    {
+      "X": -320,
+      "Y": 64,
+      "Largura": 96,
+      "Altura": 224
+    },
+    {
+      "X": -256,
+      "Y": 160,
+      "Largura": 64,
+      "Altura": 128
+    },
+    {
+      "X": 2432,
+      "Y": 512,
+      "Largura": 192,
+      "Altura": 32
+    },
+    {
+      "X": 2240,
+      "Y": 544,
+      "Largura": 128,
+      "Altura": 128
+    },
+    {
+      "X": -864,
+      "Y": -448,
+      "Largura": 224,
+      "Altura": 544
+    },
+    {
+      "X": -864,
+      "Y": -576,
+      "Largura": 896,
+      "Altura": 192
+    },
+    {
+      "X": -320,
+      "Y": -128,
+      "Largura": 128,
+      "Altura": 128
+    }
+  ],
+  "SpawnsInimigos": [
+    {
+      "X": 1024,
+      "Y": 384,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 896,
+      "Y": 384,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 768,
+      "Y": 448,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": -160,
+      "Y": 192,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 32,
+      "Y": 224,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 288,
+      "Y": 256,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 512,
+      "Y": 160,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 1440,
+      "Y": 352,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2144,
+      "Y": 704,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 512,
+      "Y": 832,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 640,
+      "Y": 800,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 832,
+      "Y": 800,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2048,
+      "Y": 384,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 704,
+      "Y": 640,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 832,
+      "Y": 640,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 1088,
+      "Y": 640,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2912,
+      "Y": 480,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2528,
+      "Y": 256,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2304,
+      "Y": 512,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2496,
+      "Y": 480,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2720,
+      "Y": 672,
+      "Tipo": "droide_teste"
+    },
+    {
+      "X": 2528,
+      "Y": 640,
+      "Tipo": "droide_teste"
+    }
+  ],
+  "PontoSpawnPlayer": {
+    "X": -512,
+    "Y": -224
+  }
+}

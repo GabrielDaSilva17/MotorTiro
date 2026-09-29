@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="PersonagemPB2.cs" />
+    <File Path="ProjetilPlasma.cs" />
+  </Folder>
+  <Project Path="MotorTiro/MotorTiro.csproj" />
+</Solution>
